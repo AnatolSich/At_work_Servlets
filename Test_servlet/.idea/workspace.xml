@@ -8,6 +8,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4f97849d-576f-4111-a903-fa94b4980a26" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ServletTest.java" afterPath="$PROJECT_DIR$/src/main/java/ServletTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/helloJSP.jsp" afterPath="$PROJECT_DIR$/src/main/resources/hello.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,15 +35,15 @@
       <file leaf-file-name="ServletTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ServletTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="105">
+              <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="helloJSP.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/helloJSP.jsp">
+      <file leaf-file-name="hello.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/hello.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="230">
               <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
@@ -84,8 +86,8 @@
         <option value="$PROJECT_DIR$/src/main/webapp/hello.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/helloJSP.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/ServletTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ServletTest.java" />
       </list>
     </option>
   </component>
@@ -455,7 +457,7 @@
       <workItem from="1513339856356" duration="5149000" />
       <workItem from="1513670870308" duration="5025000" />
       <workItem from="1513843339013" duration="842000" />
-      <workItem from="1513877222791" duration="973000" />
+      <workItem from="1513877222791" duration="1227000" />
     </task>
     <task id="LOCAL-00001" summary="Deleted error in Servlet">
       <created>1513693253786</created>
@@ -464,18 +466,25 @@
       <option name="project" value="LOCAL" />
       <updated>1513693253786</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Deleted error in Servlet2">
+      <created>1513881412177</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1513881412177</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11989000" />
+    <option name="totallyTimeSpent" value="12243000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1040" height="576" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277512" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -513,7 +522,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Deleted error in Servlet" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleted error in Servlet" />
+    <MESSAGE value="Deleted error in Servlet2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted error in Servlet2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -528,7 +538,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/helloJSP.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hello.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
@@ -560,7 +570,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/helloJSP.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hello.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
@@ -600,7 +610,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/helloJSP.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hello.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
@@ -631,7 +641,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/helloJSP.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hello.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
@@ -649,8 +659,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ServletTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="105">
+          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
           <folding />
         </state>
       </provider>
